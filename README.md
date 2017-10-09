@@ -7,7 +7,7 @@ Tarjeta de crédito válida
 * [Fecha](#cabecera5)
 
 ### Se puede acceder a este proyecto en
-[Github](http://joedicastro.com "Github")
+[Github](https://github.com/LizbethFP/Tarjeta-de-cr-dito-v-lida.git "Github")
 
 Descripción general
 -------------------
