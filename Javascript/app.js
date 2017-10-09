@@ -4,7 +4,7 @@ var arrayReverse = srtToArray.reverse();//revirtiendo array
 function isValidCard (arrayReverse) {
   for (var i = 0; i<arrayReverse.length; i = i+2){//iterar pares
   var multiply = arrayReverse[i] x 2;//multiplicar por 2 los números pares
-  var sum1 = ;
+  var sum1 = arrayReverse[i]+(multiply/10)+(multiply%10);
   var total = sum1%10
   }
   return total;
